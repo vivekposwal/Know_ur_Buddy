@@ -1,0 +1,37 @@
+.foot{
+    position:relative;
+    top:80px;
+    height:180px;
+    background-color:#39A6A3;
+}
+.cc{
+    position:relative;
+    top:40px;
+    left:550px;
+    text-decoration: none;
+    color:seashell;
+}
+.li{
+    position: relative;
+    top:40px;
+    left:650px;
+    text-decoration: none;
+    color:seashell;
+}
+.gh{
+    position: relative;
+    top:40px;
+    left:750px;
+    text-decoration: none;
+    color:seashell;
+}
+a:hover{
+    color:black;
+}
+.cr{
+    top:100px;
+    left:145px;
+    position:relative;
+    color:black;
+    font-size:10px;
+}

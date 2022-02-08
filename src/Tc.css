@@ -1,0 +1,59 @@
+.Tc{
+    background-color:hsl(180, 56%, 81%);
+    text-align: center;
+    height:700px;
+}
+h1{
+    width:200px;
+    margin: 0 auto 0 auto;
+    padding-bottom:20px;
+    font-family: 'Sacramento', cursive;
+    font-size:50px;
+    color:#39A6A3;
+}
+p{
+    width:400px;
+    margin:0 auto 0 auto;
+    padding-bottom:20px;
+    font-size: 20px;
+    color:#39A6A3;
+}
+.c1{
+    position: relative;
+    right:500px;
+    top:120px;
+    width:200px;
+    height:200px;
+}
+.c2{
+    position: relative;
+    width:200px;
+    height:200px;
+    left:400px;
+    top:50px;
+}
+.tree1{
+    position :relative;
+    right:400px;
+    height:350px;
+}
+.tree2{
+    position :relative;
+    left:400px;
+    height:355px;
+}
+.grass{
+    position:relative;
+    bottom:280px;
+}
+.b1{
+    width:5%;
+    height:5%;
+}
+.b2{
+    width:5%;
+    height:5%;
+}
+span{
+    text-decoration: underline;
+}
